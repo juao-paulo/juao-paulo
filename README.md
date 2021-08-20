@@ -27,7 +27,7 @@ object **João** {
  val acknowledgements = "systems development student"
  
  val primarySkillset = "SOME SKILLS"
- val languages = listOf("Java", "Python", "JavaScript", "Android Studio", "PHP") 
+ val languages = listOf("Java", "Python", "JavaScript", "Android Studio", "PHP", "HTML and CSS", ) 
 
 }
 ```
