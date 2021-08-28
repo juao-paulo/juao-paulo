@@ -1,4 +1,4 @@
-## Olá! Eu sou João Paulo
+## Olá! Eu sou 0 João 😄
 - Estudante de desenvolvimento de Sistemas na ETEC
 - Estudando JS como foco no Frot-End
 - Futuro Desenvolvedor de Jogos
