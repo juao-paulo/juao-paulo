@@ -1,4 +1,4 @@
-## Olá! Eu sou 0 João 😄
+## Olá! Eu sou o João 😄
 - Estudante de desenvolvimento de Sistemas na ETEC
 - Estudando JS como foco no Frot-End
 - Futuro Desenvolvedor de Jogos
