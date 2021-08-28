@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## More about me
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="250" height="200" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```
 object **João** {
@@ -46,11 +46,11 @@ object **João** {
 ## **GitHub Statistics**
 
 <a href="https://github.com/JoaaoPaulo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaaoPaulo&theme=dracula&hide_langs_below=1" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaaoPaulo&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/JoaaoPaulo">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoaaoPaulo&show_icons=true&theme=dracula&line_height=27" alt="**João Paulo Cezar Santos** github stats"/>
+ <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaaoPaulo&show_icons=true&theme=dracula&line_height=27" alt="**João Paulo Cezar Santos** github stats"/>
 </a>
 
 [twitter]: https://twitter.com/1Capiton
