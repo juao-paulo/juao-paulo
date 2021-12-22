@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João 😄
-- Estudante de desenvolvimento de Sistemas na ETEC
-- Estudando JS como foco no Frot-End
-- Futuro Desenvolvedor de Jogos
+- Técnico em desenvolvimento de Sistemas formado pela ETEC
+- Estudando React e ReactNative
+- Uma atitude pode mudar o mundo!
  <hr>
  <div>
   <a href="https://github.com/JoaaoPaulo">
