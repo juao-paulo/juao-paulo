@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Olá, meu nome é João Paulo. Sou <strong>Técnico em Desenvolvimento de Sistemas</strong> e tenho foco em <strong>React Native</strong>.
+  🌎 Olá, meu nome é João Paulo. Sou <strong>Técnico em Desenvolvimento de Sistemas</strong>.
 </p>
 
 <p align="left">
