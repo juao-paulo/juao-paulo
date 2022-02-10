@@ -2,6 +2,7 @@
 
 <p align="left"> 
   🌎 Olá, meu nome é João Paulo. Sou <strong>Técnico em Desenvolvimento de Sistemas</strong>.
+  🌎 Cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas na UNICID</strong>.
 </p>
 
 <p align="left">
