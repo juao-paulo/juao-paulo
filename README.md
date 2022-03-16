@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  🌎 Olá, meu nome é João Paulo. Sou <strong>Técnico em Desenvolvimento de Sistemas</strong>.
-  🌎 Cursando o primeiro semestre de Análise e Desenvolvimento de Sistemas na UNICID</strong>.
+Hi, I'm Sabrina Guimarães 👋
+<strong>Sou estudante de Análise e Desenvolvimento de sistemas, apaixonada por tecnologia e acredito que ela possa mudar a vida das pessoas!</strong>.
 </p>
 
 <p align="left">
