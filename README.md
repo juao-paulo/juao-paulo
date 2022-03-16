@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-Hi, I'm João Paulo 👋
+Hi, I'm João Paulo 👋</br>
 <strong>Sou estudante de Análise e Desenvolvimento de sistemas, apaixonada por tecnologia e acredito que ela possa mudar a vida das pessoas!</strong>.
 </p>
 
