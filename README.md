@@ -24,7 +24,7 @@
   
   <a href="https://www.linkedin.com/in/joão-paulo-b69b76144" alt="Linkedin">
     <img src="
-    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-paulo-b69b76144"/>
+    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
   <a href="https:https://discord.gg/4fNxUqZgnw" alt="Discord">
