@@ -22,7 +22,9 @@
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/juaopaulo.jpg"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-b69b76144" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-b69b76144">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
   
   <a href="https:https://discord.gg/4fNxUqZgnw" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https:https://discord.gg/4fNxUqZgnw"/>
