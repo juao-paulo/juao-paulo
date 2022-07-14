@@ -6,11 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>HTML, CSS, JavaScript, ReactJS, ReactNative, PHP, Laravel, Java e SQL.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>VSCode, Git e GitHub, Eclipse, Mysql Workench/DBeaver</strong>
+  🦄 Habilidades: <strong>HTML, CSS, JavaScript, ReactJS</strong>
 </p>
 
 <p align="left">
